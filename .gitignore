@@ -1,2 +1,11 @@
 *.gdoc
+*.zip
 .DS_Store
+.tmp.driveupload
+.vscode/
+.opencode/
+chest_xray/checkpoints
+chest_xray/.venv
+chest_xray/venv
+chest_xray/AGENTS.md
+chest_xray/chest_xray
